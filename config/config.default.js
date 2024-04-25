@@ -49,7 +49,7 @@ module.exports = appInfo => {
 
   config.userCity = {
     "adname":"南昌市",
-    "adcode":"360105"
+    "adcode":"360112"
   }
 
   // 寄言 一旦设置了就不会请求接口，在这里随机返送一条
